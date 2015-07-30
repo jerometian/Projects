@@ -1,0 +1,10 @@
+d:\Documents\Visual Studio 2008\Projects\Random\Random\bin\Random.dll
+d:\Documents\Visual Studio 2008\Projects\Random\Random\bin\Random.pdb
+d:\Documents\Visual Studio 2008\Projects\Random\Random\obj\Debug\ResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2008\Projects\Random\Random\obj\Debug\Random.dll
+d:\Documents\Visual Studio 2008\Projects\Random\Random\obj\Debug\Random.pdb
+D:\OneDrive\Project\Random旋转\Random\bin\Random.dll
+D:\OneDrive\Project\Random旋转\Random\bin\Random.pdb
+D:\OneDrive\Project\Random旋转\Random\obj\Debug\ResolveAssemblyReference.cache
+D:\OneDrive\Project\Random旋转\Random\obj\Debug\Random.dll
+D:\OneDrive\Project\Random旋转\Random\obj\Debug\Random.pdb
